@@ -18,7 +18,7 @@ def get_stock_data(symbol):
     return df
 
 
-
+#  test
 def get_all_stock_data():
     stock_data_map = {
         "Technology": {
