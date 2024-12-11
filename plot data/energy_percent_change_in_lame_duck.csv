@@ -1,0 +1,13 @@
+Start of Term,End of Term,Start Price,start_ticker,End Price,end_ticker,President,House,Senate,Sector,Percent Change
+2001-01-20,2003-01-19,21.88,2002-11-15,22.22,2003-01-17,Republican,Republican,Democratic,Energy,1.5539305301645332
+2003-01-20,2005-01-19,35.9,2004-11-12,36.46,2005-01-14,Republican,Republican,Republican,Energy,1.559888579387193
+2005-01-20,2007-01-19,57.45,2006-11-10,56.58,2007-01-19,Republican,Republican,Republican,Energy,-1.5143603133159347
+2007-01-20,2009-01-19,47.77,2008-11-14,46.54,2009-01-16,Republican,Democratic,Democratic,Energy,-2.574837764287218
+2009-01-20,2011-01-19,62.94,2010-11-12,70.65,2011-01-14,Democratic,Democratic,Democratic,Energy,12.249761677788383
+2011-01-20,2013-01-19,68.92,2012-11-16,75.49,2013-01-18,Democratic,Republican,Democratic,Energy,9.532791642484028
+2013-01-20,2015-01-19,86.21,2014-11-14,75.23,2015-01-16,Democratic,Republican,Democratic,Energy,-12.736341491706288
+2015-01-20,2017-01-19,69.46,2016-11-11,74.38,2017-01-13,Democratic,Republican,Republican,Energy,7.083213360207316
+2017-01-20,2019-01-19,67.18,2018-11-16,63.84,2019-01-18,Republican,Republican,Republican,Energy,-4.971717773146774
+2019-01-20,2021-01-19,33.88,2020-11-13,42.75,2021-01-15,Republican,Democratic,Republican,Energy,26.1806375442739
+2021-01-20,2023-01-19,93.13,2022-11-11,89.95,2023-01-13,Democratic,Democratic,Democratic,Energy,-3.414581767421876
+2023-01-20,2025-01-19,94.73,2024-11-15,91.02,2024-12-06,Democratic,Republican,Democratic,Energy,-3.9163939617861376
