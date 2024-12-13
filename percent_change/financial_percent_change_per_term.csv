@@ -1,0 +1,13 @@
+Start of Term,End of Term,Start Price,start_ticker,End Price,end_ticker,President,House,Senate,Sector,Percent Change
+2001-01-20,2003-01-19,29.52,2001-01-26,23.1,2003-01-17,Republican,Republican,Democratic,Financial,-21.74796747967479
+2003-01-20,2005-01-19,21.83,2003-01-24,29.74,2005-01-14,Republican,Republican,Republican,Financial,36.234539624370136
+2005-01-20,2007-01-19,29.54,2005-01-21,36.96,2007-01-19,Republican,Republican,Republican,Financial,25.118483412322277
+2007-01-20,2009-01-19,36.82,2007-01-26,9.68,2009-01-16,Republican,Democratic,Democratic,Financial,-73.7099402498642
+2009-01-20,2011-01-19,8.99,2009-01-23,16.72,2011-01-14,Democratic,Democratic,Democratic,Financial,85.98442714126806
+2011-01-20,2013-01-19,16.4615,2011-01-21,17.15,2013-01-18,Democratic,Republican,Democratic,Financial,4.182486407678508
+2013-01-20,2015-01-19,17.47,2013-01-25,23.49,2015-01-16,Democratic,Republican,Democratic,Financial,34.45907269605038
+2015-01-20,2017-01-19,23.77,2015-01-23,23.51,2017-01-13,Democratic,Republican,Republican,Financial,-1.0938157341186285
+2017-01-20,2019-01-19,23.15,2017-01-20,26.0,2019-01-18,Republican,Republican,Republican,Financial,12.311015118790504
+2019-01-20,2021-01-19,26.0,2019-01-25,30.94,2021-01-15,Republican,Democratic,Republican,Financial,19.000000000000007
+2021-01-20,2023-01-19,30.34,2021-01-22,36.12,2023-01-13,Democratic,Democratic,Democratic,Financial,19.05075807514831
+2023-01-20,2025-01-19,35.35,2023-01-20,50.4,2024-12-06,Democratic,Republican,Democratic,Financial,42.57425742574256

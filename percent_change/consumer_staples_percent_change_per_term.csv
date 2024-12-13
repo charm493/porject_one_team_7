@@ -1,0 +1,13 @@
+Start of Term,End of Term,Start Price,start_ticker,End Price,end_ticker,President,House,Senate,Sector,Percent Change
+2001-01-20,2003-01-19,26.33,2001-01-26,20.5,2003-01-17,Republican,Republican,Democratic,Consumer Staples,-22.14204329661982
+2003-01-20,2005-01-19,19.53,2003-01-24,23.19,2005-01-14,Republican,Republican,Republican,Consumer Staples,18.740399385560675
+2005-01-20,2007-01-19,23.17,2005-01-21,26.61,2007-01-19,Republican,Republican,Republican,Consumer Staples,14.84678463530426
+2007-01-20,2009-01-19,26.49,2007-01-26,22.95,2009-01-16,Republican,Democratic,Democratic,Consumer Staples,-13.36353340883352
+2009-01-20,2011-01-19,22.55,2009-01-23,29.33,2011-01-14,Democratic,Democratic,Democratic,Consumer Staples,30.06651884700664
+2011-01-20,2013-01-19,29.49,2011-01-21,36.48,2013-01-18,Democratic,Republican,Democratic,Consumer Staples,23.702950152594095
+2013-01-20,2015-01-19,36.76,2013-01-25,49.27,2015-01-16,Democratic,Republican,Democratic,Consumer Staples,34.031556039173026
+2015-01-20,2017-01-19,49.65,2015-01-23,51.52,2017-01-13,Democratic,Republican,Republican,Consumer Staples,3.76636455186305
+2017-01-20,2019-01-19,52.58,2017-01-20,52.45,2019-01-18,Republican,Republican,Republican,Consumer Staples,-0.24724229745149384
+2019-01-20,2021-01-19,51.73,2019-01-25,65.63,2021-01-15,Republican,Democratic,Republican,Consumer Staples,26.87028803402281
+2021-01-20,2023-01-19,65.07,2021-01-22,74.74,2023-01-13,Democratic,Democratic,Democratic,Consumer Staples,14.860919010296609
+2023-01-20,2025-01-19,72.62,2023-01-20,82.38,2024-12-06,Democratic,Republican,Democratic,Consumer Staples,13.43982374001651
