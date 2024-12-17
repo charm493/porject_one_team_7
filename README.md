@@ -8,6 +8,12 @@
 ## Overview
 This project analyzes the relationship between stock price vs political control (house, senate, president) in the United States.
 
+## Summary of Analysis
+1. After collecting and analyzing our data we can confirm that Healthcare Stocks do better under Democratic Presidents and Energy Stocks do better under Republican Presidents.
+2. Unforseen events such as War, Pandemics, Recessions are the true driver of stock prices. 
+3. For 2025 onwards the best stocks to buy are Technology and Energy Stocks.
+
+
 ## How to get stock data
 1. Get api key from [Alpha Vantage](https://www.alphavantage.co/)       
 2. Set your environment variable in terminal
@@ -15,6 +21,12 @@ This project analyzes the relationship between stock price vs political control 
 3. (Optional) edit **STOCK_DATA_MAP** and call to **bulk_get_stock_data**
 4. Run script
 > python data-gather.py
+
+## Installation Instructions
+Install the Prophet onto your local device.
+> python -m pip install prophet
+
+> conda install -c conda-forge prophet
 
 ## Files n Folders
 :paperclip: create_datasets - the main evaluation of data for this project, including the creation of datasets and visualizations       
