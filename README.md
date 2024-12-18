@@ -34,4 +34,7 @@ Install the Prophet onto your local device.
 :card_index_dividers: cleaned_data - raw_data combined with political data        
 :card_index_dividers: lame_duck - cleaned_data specifically for lame duck periods     
 :card_index_dividers: percent_change - percent change data between larger periods of time     
-:card_index_dividers: lame_duck_perc_change - percent change data between larger periods of time, specifically during lame duck (duration where successor is already chosen) periods      
+:card_index_dividers: lame_duck_perc_change - percent change data between larger periods of time, specifically during lame duck (duration where successor is already chosen) periods
+
+Presentation: https://docs.google.com/presentation/d/1K7KF0C80zpkL57p9RqSrFbNkj_xI0He17toTRkfiR9M/edit?usp=sharing
+
