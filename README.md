@@ -9,9 +9,9 @@
 This project analyzes the relationship between stock price vs political control (house, senate, president) in the United States.
 
 ## Summary of Analysis
-1. After collecting and analyzing our data we can confirm that Healthcare Stocks do better under Democratic Presidents and Energy Stocks do better under Republican Presidents.
+1. After collecting and analyzing our data we see only minor correlations. The most obvious one is that Energy stocks tend to decline under Republican presidents, while most other stocks experience almost equal growth under both Republican and Democratic presidents.
 2. Unforseen events such as War, Pandemics, Recessions are the true driver of stock prices. 
-3. For 2025 onwards the best stocks to buy are Technology and Energy Stocks.
+3. For 2025 the best stocks to buy are Utilities, Technology, Healthcare and Consumer Staples.
 
 
 ## How to get stock data
