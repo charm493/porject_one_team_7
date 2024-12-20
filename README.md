@@ -38,3 +38,5 @@ Install the Prophet onto your local device.
 
 Presentation: https://docs.google.com/presentation/d/1K7KF0C80zpkL57p9RqSrFbNkj_xI0He17toTRkfiR9M/edit?usp=sharing
 
+Demo video link: https://drive.google.com/file/d/1nsVrb2RyOnnFQ9d67zCxgTXxJN0uWFZO/view?usp=drive_link
+
